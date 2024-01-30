@@ -107,8 +107,8 @@ id: Nicaragua
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Nicaragua//
-markerFolder: ./Nicaragua/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Nicaragua] 
