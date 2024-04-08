@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-86.28] 
-[geo-lat::12.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-86.28] 
+[has_place_latitude::12.15] 
 [name::Managua] 
 State ::  
 Country :: [[../../../../Nicaragua]]  
