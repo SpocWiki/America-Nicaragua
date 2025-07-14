@@ -133,15 +133,17 @@ Capital :: [[Nicaragua/Counties/Managua/City/Managua]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~Central\NicaraguaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~Central/Nicaragua/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\NicaraguaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~Central/Nicaragua/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\NicaraguaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~Central/Nicaragua/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~Central\NicaraguaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~Central/Nicaragua/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\NicaraguaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~Central/Nicaragua/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\NicaraguaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~Central/Nicaragua/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~Central/Nicaragua/ReadMe.secret.md)
 

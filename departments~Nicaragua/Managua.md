@@ -41,15 +41,17 @@ markerFolder: ./Managua/
 
 ## Confidential Links & Embeds: 
 
-### [Managua.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaManagua.public.md) 
+### [Managua](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.md) 
 
-### [Managua.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaManagua.internal.md) 
+### [Managua.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.public.md) 
 
-### [Managua.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaManagua.protect.md) 
+### [Managua.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.internal.md) 
 
-### [Managua.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaManagua.private.md) 
+### [Managua.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.protect.md) 
 
-### [Managua.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaManagua.personal.md) 
+### [Managua.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.private.md) 
 
-### [Managua.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaManagua.secret.md)
+### [Managua.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.personal.md) 
+
+### [Managua.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.secret.md)
 

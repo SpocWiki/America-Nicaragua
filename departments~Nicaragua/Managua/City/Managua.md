@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Managua.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Managua\CityManagua.public.md) 
+### [Managua](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua/City/Managua.md) 
 
-### [Managua.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Managua\CityManagua.internal.md) 
+### [Managua.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua/City/Managua.public.md) 
 
-### [Managua.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Managua\CityManagua.protect.md) 
+### [Managua.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua/City/Managua.internal.md) 
 
-### [Managua.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Managua\CityManagua.private.md) 
+### [Managua.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua/City/Managua.protect.md) 
 
-### [Managua.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Managua\CityManagua.personal.md) 
+### [Managua.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua/City/Managua.private.md) 
 
-### [Managua.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Managua\CityManagua.secret.md)
+### [Managua.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua/City/Managua.personal.md) 
+
+### [Managua.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua/City/Managua.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Rio_San_Juan/
 
 ## Confidential Links & Embeds: 
 
-### [Rio_San_Juan.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRio_San_Juan.public.md) 
+### [Rio_San_Juan](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rio_San_Juan.md) 
 
-### [Rio_San_Juan.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRio_San_Juan.internal.md) 
+### [Rio_San_Juan.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rio_San_Juan.public.md) 
 
-### [Rio_San_Juan.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRio_San_Juan.protect.md) 
+### [Rio_San_Juan.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rio_San_Juan.internal.md) 
 
-### [Rio_San_Juan.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRio_San_Juan.private.md) 
+### [Rio_San_Juan.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rio_San_Juan.protect.md) 
 
-### [Rio_San_Juan.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRio_San_Juan.personal.md) 
+### [Rio_San_Juan.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rio_San_Juan.private.md) 
 
-### [Rio_San_Juan.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRio_San_Juan.secret.md)
+### [Rio_San_Juan.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rio_San_Juan.personal.md) 
+
+### [Rio_San_Juan.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rio_San_Juan.secret.md)
 

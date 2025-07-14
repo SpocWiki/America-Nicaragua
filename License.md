@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~Central\NicaraguaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~Central/Nicaragua/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~Central\NicaraguaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~Central/Nicaragua/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~Central\NicaraguaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~Central/Nicaragua/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~Central\NicaraguaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~Central/Nicaragua/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~Central\NicaraguaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~Central/Nicaragua/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~Central\NicaraguaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~Central/Nicaragua/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~Central/Nicaragua/License.secret.md)
 

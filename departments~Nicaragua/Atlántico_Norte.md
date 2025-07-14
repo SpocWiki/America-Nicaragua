@@ -41,15 +41,17 @@ markerFolder: ./Atlántico_Norte/
 
 ## Confidential Links & Embeds: 
 
-### [Atlántico_Norte.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaAtlántico_Norte.public.md) 
+### [Atlántico_Norte](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.md) 
 
-### [Atlántico_Norte.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaAtlántico_Norte.internal.md) 
+### [Atlántico_Norte.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.public.md) 
 
-### [Atlántico_Norte.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaAtlántico_Norte.protect.md) 
+### [Atlántico_Norte.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.internal.md) 
 
-### [Atlántico_Norte.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaAtlántico_Norte.private.md) 
+### [Atlántico_Norte.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.protect.md) 
 
-### [Atlántico_Norte.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaAtlántico_Norte.personal.md) 
+### [Atlántico_Norte.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.private.md) 
 
-### [Atlántico_Norte.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaAtlántico_Norte.secret.md)
+### [Atlántico_Norte.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.personal.md) 
+
+### [Atlántico_Norte.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Nueva_Segovia/
 
 ## Confidential Links & Embeds: 
 
-### [Nueva_Segovia.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaNueva_Segovia.public.md) 
+### [Nueva_Segovia](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia.md) 
 
-### [Nueva_Segovia.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaNueva_Segovia.internal.md) 
+### [Nueva_Segovia.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia.public.md) 
 
-### [Nueva_Segovia.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaNueva_Segovia.protect.md) 
+### [Nueva_Segovia.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia.internal.md) 
 
-### [Nueva_Segovia.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaNueva_Segovia.private.md) 
+### [Nueva_Segovia.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia.protect.md) 
 
-### [Nueva_Segovia.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaNueva_Segovia.personal.md) 
+### [Nueva_Segovia.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia.private.md) 
 
-### [Nueva_Segovia.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaNueva_Segovia.secret.md)
+### [Nueva_Segovia.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia.personal.md) 
+
+### [Nueva_Segovia.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia.secret.md)
 

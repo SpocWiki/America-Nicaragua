@@ -41,15 +41,17 @@ markerFolder: ./Madriz/
 
 ## Confidential Links & Embeds: 
 
-### [Madriz.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaMadriz.public.md) 
+### [Madriz](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Madriz.md) 
 
-### [Madriz.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaMadriz.internal.md) 
+### [Madriz.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Madriz.public.md) 
 
-### [Madriz.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaMadriz.protect.md) 
+### [Madriz.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Madriz.internal.md) 
 
-### [Madriz.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaMadriz.private.md) 
+### [Madriz.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Madriz.protect.md) 
 
-### [Madriz.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaMadriz.personal.md) 
+### [Madriz.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Madriz.private.md) 
 
-### [Madriz.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaMadriz.secret.md)
+### [Madriz.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Madriz.personal.md) 
+
+### [Madriz.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Madriz.secret.md)
 
