@@ -40,11 +40,16 @@ markerFolder: ./_Rivers/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Granada/_Rivers|_Rivers]] 
-- [[../../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Granada/_Rivers.public|_Rivers.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Granada/_Rivers.internal|_Rivers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Granada/_Rivers.protect|_Rivers.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Granada/_Rivers.private|_Rivers.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Granada/_Rivers.personal|_Rivers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Granada/_Rivers.secret|_Rivers.secret]] 
+
+### [_Rivers.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Granada_Rivers.public.md) 
+
+### [_Rivers.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Granada_Rivers.internal.md) 
+
+### [_Rivers.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Granada_Rivers.protect.md) 
+
+### [_Rivers.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Granada_Rivers.private.md) 
+
+### [_Rivers.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Granada_Rivers.personal.md) 
+
+### [_Rivers.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~Nicaragua\Granada_Rivers.secret.md)
 

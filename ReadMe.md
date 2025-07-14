@@ -131,11 +131,17 @@ Capital :: [[Nicaragua/Counties/Managua/City/Managua]]
 [has_place_latitude::12.15] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Nicaragua|Nicaragua]] 
-- [[../../../../_internal/geo/Continent/America~Central/Nicaragua.internal|Nicaragua.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Nicaragua.protect|Nicaragua.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Nicaragua.private|Nicaragua.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Nicaragua.personal|Nicaragua.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Nicaragua.secret|Nicaragua.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~Central\NicaraguaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\NicaraguaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\NicaraguaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~Central\NicaraguaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\NicaraguaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\NicaraguaReadMe.secret.md)
+

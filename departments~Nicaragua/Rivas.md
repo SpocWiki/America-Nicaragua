@@ -40,11 +40,16 @@ markerFolder: ./Rivas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Rivas|Rivas]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Rivas.public|Rivas.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Rivas.internal|Rivas.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Rivas.protect|Rivas.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Rivas.private|Rivas.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Rivas.personal|Rivas.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Rivas.secret|Rivas.secret]] 
+
+### [Rivas.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRivas.public.md) 
+
+### [Rivas.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRivas.internal.md) 
+
+### [Rivas.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRivas.protect.md) 
+
+### [Rivas.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRivas.private.md) 
+
+### [Rivas.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRivas.personal.md) 
+
+### [Rivas.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaRivas.secret.md)
 

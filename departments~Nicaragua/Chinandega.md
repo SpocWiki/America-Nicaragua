@@ -40,11 +40,16 @@ markerFolder: ./Chinandega/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Chinandega|Chinandega]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.public|Chinandega.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.internal|Chinandega.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.protect|Chinandega.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.private|Chinandega.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.personal|Chinandega.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Chinandega.secret|Chinandega.secret]] 
+
+### [Chinandega.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChinandega.public.md) 
+
+### [Chinandega.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChinandega.internal.md) 
+
+### [Chinandega.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChinandega.protect.md) 
+
+### [Chinandega.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChinandega.private.md) 
+
+### [Chinandega.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChinandega.personal.md) 
+
+### [Chinandega.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChinandega.secret.md)
 

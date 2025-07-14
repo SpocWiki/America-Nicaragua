@@ -40,11 +40,16 @@ markerFolder: ./Granada/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Granada|Granada]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Granada.public|Granada.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Granada.internal|Granada.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Granada.protect|Granada.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Granada.private|Granada.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Granada.personal|Granada.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Granada.secret|Granada.secret]] 
+
+### [Granada.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaGranada.public.md) 
+
+### [Granada.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaGranada.internal.md) 
+
+### [Granada.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaGranada.protect.md) 
+
+### [Granada.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaGranada.private.md) 
+
+### [Granada.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaGranada.personal.md) 
+
+### [Granada.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaGranada.secret.md)
 

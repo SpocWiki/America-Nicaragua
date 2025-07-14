@@ -40,11 +40,16 @@ markerFolder: ./Chontales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Nicaragua/Counties/Chontales|Chontales]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Nicaragua/Counties/Chontales.public|Chontales.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Nicaragua/Counties/Chontales.internal|Chontales.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Nicaragua/Counties/Chontales.protect|Chontales.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Nicaragua/Counties/Chontales.private|Chontales.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Nicaragua/Counties/Chontales.personal|Chontales.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Nicaragua/Counties/Chontales.secret|Chontales.secret]] 
+
+### [Chontales.public](/_public/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChontales.public.md) 
+
+### [Chontales.internal](/_internal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChontales.internal.md) 
+
+### [Chontales.protect](/_protect/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChontales.protect.md) 
+
+### [Chontales.private](/_private/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChontales.private.md) 
+
+### [Chontales.personal](/_personal/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChontales.personal.md) 
+
+### [Chontales.secret](/_secret/\Earth\Continent\America~Central\Nicaragua\departments~NicaraguaChontales.secret.md)
 
