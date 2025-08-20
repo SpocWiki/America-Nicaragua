@@ -1,35 +1,36 @@
 ---
 location:
-- 12.15
-- -86.28
+  - 12.15
+  - -86.28
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26982
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Nicaragua
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Nicaragua
-- نيكاراغوا
-- 尼加拉瓜
-- Никарагуа
-- the Republic of Nicaragua
-- la República de Nicaragua
+  - Nicaragua
+  - نيكاراغوا
+  - 尼加拉瓜
+  - Никарагуа
+  - the Republic of Nicaragua
+  - la República de Nicaragua
 Languages:
-- es-NI
-- en
+  - es-NI
+  - en
 ---
 
 
