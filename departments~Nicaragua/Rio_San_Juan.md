@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Rio_San_Juan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rio_San_Juan/
 markerFolder: ./Rio_San_Juan/

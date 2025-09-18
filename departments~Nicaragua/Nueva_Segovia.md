@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Nueva_Segovia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nueva_Segovia/
 markerFolder: ./Nueva_Segovia/
