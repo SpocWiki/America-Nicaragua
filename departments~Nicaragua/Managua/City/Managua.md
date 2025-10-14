@@ -21,7 +21,7 @@ State ::
 Country :: [[../../../../Nicaragua]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
