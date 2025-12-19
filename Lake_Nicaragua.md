@@ -10,9 +10,11 @@ aliases:
   - Gran Lago Dulce
   - Lago de Granada
 has_id_wikidata: Q173862
-location: [11.5742, -85.3563] 
+location:
+  - 11.5742
+  - -85.3563
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
 outflows: "[[_Standards/WikiData/WD~Río_San_Juan,1161204]]"
 inflows:
