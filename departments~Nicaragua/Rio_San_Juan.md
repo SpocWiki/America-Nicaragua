@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rio_San_Juan
+  - Rio San Juan
 location:
   - 11.3
   - -84.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Rio_San_Juan
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Rio_San_Juan

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nueva_Segovia
+  - Nueva Segovia
 location:
   - 13.8
   - -86.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Nueva_Segovia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Nueva_Segovia

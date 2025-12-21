@@ -1,16 +1,19 @@
 ---
-location: [12.15,-86.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Managua
+location:
+  - 12.15
+  - -86.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32247
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

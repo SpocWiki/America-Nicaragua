@@ -20,11 +20,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 Facebook_username: managua.gob.ni
 UN_LOCODE: NIMGA
 demonym:
@@ -39,45 +39,45 @@ native_label:
   - Leal Villa de Santiago de Managua
   - Managua
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Trujillo,214173]]"
-  - "[[_Standards/WikiData/WD~Xalapa,221051]]"
-  - "[[_Standards/WikiData/WD~Montreal,340]]"
-  - "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
-  - "[[_Standards/WikiData/WD~Caracas,1533]]"
-  - "[[_Standards/WikiData/WD~Taipei,1867]]"
-  - "[[_Standards/WikiData/WD~Madrid,2807]]"
-  - "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
+  - '[[_Standards/WikiData/WD~Trujillo,214173]]'
+  - '[[_Standards/WikiData/WD~Xalapa,221051]]'
+  - '[[_Standards/WikiData/WD~Montreal,340]]'
+  - '[[_Standards/WikiData/WD~Buenos_Aires,1486]]'
+  - '[[_Standards/WikiData/WD~Caracas,1533]]'
+  - '[[_Standards/WikiData/WD~Taipei,1867]]'
+  - '[[_Standards/WikiData/WD~Madrid,2807]]'
+  - '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
   - "[[_Standards/WikiData/WD~L'Hospitalet_de_Llobregat,15470]]"
-  - "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-  - "[[_Standards/WikiData/WD~Santo_Domingo,34820]]"
+  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+  - '[[_Standards/WikiData/WD~Santo_Domingo,34820]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Managua_Department,260009]]"
-  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Managua_Department,260009]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Lake_Managua,272380]]"
+  - '[[_Standards/WikiData/WD~Managua_Department,260009]]'
+  - '[[_Standards/WikiData/WD~Nicaragua,811]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Managua_Department,260009]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Lake_Managua,272380]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~municipality_of_Nicaragua,318727]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
+  - '[[_Standards/WikiData/WD~municipality_of_Nicaragua,318727]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Managua,397500]]"
-  - "[[_Standards/WikiData/WD~Managua,131546626]]"
+  - '[[_Standards/WikiData/WD~Managua,397500]]'
+  - '[[_Standards/WikiData/WD~Managua,131546626]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Managua,18746542]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q32380425,32380425]]"
-head_of_government: "[[_Standards/WikiData/WD~Reyna_Rueda,104216727]]"
-country: "[[_Standards/WikiData/WD~Nicaragua,811]]"
-official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Managua,18746542]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32380425,32380425]]'
+head_of_government: '[[_Standards/WikiData/WD~Reyna_Rueda,104216727]]'
+country: '[[_Standards/WikiData/WD~Nicaragua,811]]'
+official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
 elevation_above_sea_level: 143
 area: 267.2
-WOEID: "153523"
-OmegaWiki_Defined_Meaning: "458319"
+WOEID: 153523
+OmegaWiki_Defined_Meaning: 458319
 population: 937489
 coordinate_location: Point(-86.273766666 12.154372222)
 inception: 1819-03-24T00:00:00Z
@@ -91,7 +91,7 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Managua%2C%20Nic
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/ManaguaNicCollage.jpg
 official_website: https://www.managua.gob.ni/
 postal_code: 10000–14345
-U_S_National_Archives_Identifier: "10044657"
+U_S_National_Archives_Identifier: 10044657
 TikTok_username: alcaldia_de_managua
 X_Twitter_username: alcaldia_mga
 Instagram_username: alcaldiademanagua

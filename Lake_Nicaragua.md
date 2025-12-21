@@ -9,22 +9,23 @@ aliases:
   - Gran Lago
   - Gran Lago Dulce
   - Lago de Granada
+  - Lake_Nicaragua
 has_id_wikidata: Q173862
 location:
   - 11.5742
   - -85.3563
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-outflows: "[[_Standards/WikiData/WD~Río_San_Juan,1161204]]"
+  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+outflows: '[[_Standards/WikiData/WD~Río_San_Juan,1161204]]'
 inflows:
-  - "[[_Standards/WikiData/WD~Río_Tipitapa,2179274]]"
-  - "[[_Standards/WikiData/WD~Celeste_River,3294211]]"
-drainage_basin: "[[_Standards/WikiData/WD~San_Juan_River_basin,47015195]]"
+  - '[[_Standards/WikiData/WD~Río_Tipitapa,2179274]]'
+  - '[[_Standards/WikiData/WD~Celeste_River,3294211]]'
+drainage_basin: '[[_Standards/WikiData/WD~San_Juan_River_basin,47015195]]'
 coordinate_location: Point(-85.3563 11.5742)
-basin_country: "[[_Standards/WikiData/WD~Nicaragua,811]]"
-country: "[[_Standards/WikiData/WD~Nicaragua,811]]"
-instance_of: "[[_Standards/WikiData/WD~lake,23397]]"
+basin_country: '[[_Standards/WikiData/WD~Nicaragua,811]]'
+country: '[[_Standards/WikiData/WD~Nicaragua,811]]'
+instance_of: '[[_Standards/WikiData/WD~lake,23397]]'
 vertical_depth: 60
 elevation_above_sea_level:
   - 31

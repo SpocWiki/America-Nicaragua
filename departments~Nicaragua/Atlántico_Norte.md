@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Atlántico_Norte
+  - Atlántico Norte
 location:
   - 14
   - -84.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Atlántico_Norte
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Atlántico_Norte

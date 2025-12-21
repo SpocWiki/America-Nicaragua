@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Nicaragua
+  - نيكاراغوا
+  - 尼加拉瓜
+  - Никарагуа
+  - the Republic of Nicaragua
+  - la República de Nicaragua
+  - ReadMe
 location:
   - 12.15
   - -86.28
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Nicaragua
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Nicaragua
-  - نيكاراغوا
-  - 尼加拉瓜
-  - Никарагуа
-  - the Republic of Nicaragua
-  - la República de Nicaragua
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-NI
   - en

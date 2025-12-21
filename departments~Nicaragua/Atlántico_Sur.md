@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Atlántico_Sur
+  - Atlántico Sur
 location:
   - 12.1
   - -84.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Atlántico_Sur
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Atlántico_Sur
