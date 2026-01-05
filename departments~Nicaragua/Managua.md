@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1819-03-24 
 aliases:
   - Managua
 has_id_wikidata: Q3274
