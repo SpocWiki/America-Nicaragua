@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -86.28
 dv_has_place_latitude: 12.15
-dv_name: Managua
+dv_has_name_: Managua
 dv_Country: "[[../../../../Nicaragua]]"
 ---
 #is_a_/Place  
