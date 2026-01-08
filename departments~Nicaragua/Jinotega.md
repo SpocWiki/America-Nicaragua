@@ -40,17 +40,17 @@ markerFolder: ./Jinotega/
 
 ## Confidential Links & Embeds: 
 
-### [Jinotega](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega|Jinotega]] 
 
-### [Jinotega.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.public|Jinotega.public]] 
 
-### [Jinotega.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.internal|Jinotega.internal]] 
 
-### [Jinotega.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.protect|Jinotega.protect]] 
 
-### [Jinotega.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.private|Jinotega.private]] 
 
-### [Jinotega.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.personal|Jinotega.personal]] 
 
-### [Jinotega.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Jinotega.secret|Jinotega.secret]] 
 

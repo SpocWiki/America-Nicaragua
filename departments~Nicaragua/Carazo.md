@@ -40,17 +40,17 @@ markerFolder: ./Carazo/
 
 ## Confidential Links & Embeds: 
 
-### [Carazo](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo|Carazo]] 
 
-### [Carazo.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.public|Carazo.public]] 
 
-### [Carazo.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.internal|Carazo.internal]] 
 
-### [Carazo.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.protect|Carazo.protect]] 
 
-### [Carazo.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.private|Carazo.private]] 
 
-### [Carazo.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.personal|Carazo.personal]] 
 
-### [Carazo.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Carazo.secret|Carazo.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Matagalpa/
 
 ## Confidential Links & Embeds: 
 
-### [Matagalpa](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa|Matagalpa]] 
 
-### [Matagalpa.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.public|Matagalpa.public]] 
 
-### [Matagalpa.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.internal|Matagalpa.internal]] 
 
-### [Matagalpa.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.protect|Matagalpa.protect]] 
 
-### [Matagalpa.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.private|Matagalpa.private]] 
 
-### [Matagalpa.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.personal|Matagalpa.personal]] 
 
-### [Matagalpa.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Matagalpa.secret|Matagalpa.secret]] 
 

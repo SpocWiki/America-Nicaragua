@@ -41,17 +41,17 @@ markerFolder: ./Atlántico_Sur/
 
 ## Confidential Links & Embeds: 
 
-### [Atlántico_Sur](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur|Atlántico_Sur]] 
 
-### [Atlántico_Sur.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.public|Atlántico_Sur.public]] 
 
-### [Atlántico_Sur.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.internal|Atlántico_Sur.internal]] 
 
-### [Atlántico_Sur.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.protect|Atlántico_Sur.protect]] 
 
-### [Atlántico_Sur.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.private|Atlántico_Sur.private]] 
 
-### [Atlántico_Sur.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.personal|Atlántico_Sur.personal]] 
 
-### [Atlántico_Sur.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Sur.secret|Atlántico_Sur.secret]] 
 

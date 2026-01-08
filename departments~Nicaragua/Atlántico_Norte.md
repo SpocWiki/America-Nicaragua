@@ -41,17 +41,17 @@ markerFolder: ./Atlántico_Norte/
 
 ## Confidential Links & Embeds: 
 
-### [Atlántico_Norte](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte|Atlántico_Norte]] 
 
-### [Atlántico_Norte.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.public|Atlántico_Norte.public]] 
 
-### [Atlántico_Norte.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.internal|Atlántico_Norte.internal]] 
 
-### [Atlántico_Norte.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.protect|Atlántico_Norte.protect]] 
 
-### [Atlántico_Norte.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.private|Atlántico_Norte.private]] 
 
-### [Atlántico_Norte.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.personal|Atlántico_Norte.personal]] 
 
-### [Atlántico_Norte.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Atlántico_Norte.secret|Atlántico_Norte.secret]] 
 

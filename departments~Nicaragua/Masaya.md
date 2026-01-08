@@ -40,17 +40,17 @@ markerFolder: ./Masaya/
 
 ## Confidential Links & Embeds: 
 
-### [Masaya](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya|Masaya]] 
 
-### [Masaya.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.public|Masaya.public]] 
 
-### [Masaya.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.internal|Masaya.internal]] 
 
-### [Masaya.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.protect|Masaya.protect]] 
 
-### [Masaya.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.private|Masaya.private]] 
 
-### [Masaya.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.personal|Masaya.personal]] 
 
-### [Masaya.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Masaya.secret|Masaya.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./_Rivers/
 
 ## Confidential Links & Embeds: 
 
-### [_Rivers](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers|_Rivers]] 
 
-### [_Rivers.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.public|_Rivers.public]] 
 
-### [_Rivers.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.internal|_Rivers.internal]] 
 
-### [_Rivers.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.protect|_Rivers.protect]] 
 
-### [_Rivers.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.private|_Rivers.private]] 
 
-### [_Rivers.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.personal|_Rivers.personal]] 
 
-### [_Rivers.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Nueva_Segovia/_Rivers.secret|_Rivers.secret]] 
 

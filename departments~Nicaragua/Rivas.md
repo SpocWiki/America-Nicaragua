@@ -40,17 +40,17 @@ markerFolder: ./Rivas/
 
 ## Confidential Links & Embeds: 
 
-### [Rivas](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas|Rivas]] 
 
-### [Rivas.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.public|Rivas.public]] 
 
-### [Rivas.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.internal|Rivas.internal]] 
 
-### [Rivas.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.protect|Rivas.protect]] 
 
-### [Rivas.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.private|Rivas.private]] 
 
-### [Rivas.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.personal|Rivas.personal]] 
 
-### [Rivas.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Rivas.secret|Rivas.secret]] 
 

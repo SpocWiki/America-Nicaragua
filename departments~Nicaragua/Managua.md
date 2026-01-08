@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Managua,3274|WD~Managua,3274]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Managua,3274|WD~Managua,3274]]"
+
 has_time_started: 1819-03-24 
 aliases:
   - Managua
@@ -100,7 +104,7 @@ Instagram_username: alcaldiademanagua
 
 # [[Managua]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Managua,3274|WD~Managua,3274]] 
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Managua
@@ -122,19 +126,20 @@ markerFile: [[Managua]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Managua)
 
+
 ## Confidential Links & Embeds: 
 
-### [Managua](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua|Managua]] 
 
-### [Managua.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.public|Managua.public]] 
 
-### [Managua.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.internal|Managua.internal]] 
 
-### [Managua.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.protect|Managua.protect]] 
 
-### [Managua.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.private|Managua.private]] 
 
-### [Managua.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.personal|Managua.personal]] 
 
-### [Managua.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Managua.secret|Managua.secret]] 
 

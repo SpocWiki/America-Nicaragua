@@ -40,17 +40,17 @@ markerFolder: ./Chinandega/
 
 ## Confidential Links & Embeds: 
 
-### [Chinandega](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega|Chinandega]] 
 
-### [Chinandega.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.public|Chinandega.public]] 
 
-### [Chinandega.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.internal|Chinandega.internal]] 
 
-### [Chinandega.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.protect|Chinandega.protect]] 
 
-### [Chinandega.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.private|Chinandega.private]] 
 
-### [Chinandega.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.personal|Chinandega.personal]] 
 
-### [Chinandega.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Chinandega.secret|Chinandega.secret]] 
 

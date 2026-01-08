@@ -40,17 +40,17 @@ markerFolder: ./León/
 
 ## Confidential Links & Embeds: 
 
-### [León](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León|León]] 
 
-### [León.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.public|León.public]] 
 
-### [León.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.internal|León.internal]] 
 
-### [León.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.protect|León.protect]] 
 
-### [León.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.private|León.private]] 
 
-### [León.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.personal|León.personal]] 
 
-### [León.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/León.secret|León.secret]] 
 

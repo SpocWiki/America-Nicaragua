@@ -40,17 +40,17 @@ markerFolder: ./Estelí/
 
 ## Confidential Links & Embeds: 
 
-### [Estelí](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí|Estelí]] 
 
-### [Estelí.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.public|Estelí.public]] 
 
-### [Estelí.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.internal|Estelí.internal]] 
 
-### [Estelí.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.protect|Estelí.protect]] 
 
-### [Estelí.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.private|Estelí.private]] 
 
-### [Estelí.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.personal|Estelí.personal]] 
 
-### [Estelí.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Estelí.secret|Estelí.secret]] 
 

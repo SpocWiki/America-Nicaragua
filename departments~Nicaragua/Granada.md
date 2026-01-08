@@ -40,17 +40,17 @@ markerFolder: ./Granada/
 
 ## Confidential Links & Embeds: 
 
-### [Granada](/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada|Granada]] 
 
-### [Granada.public](/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.public|Granada.public]] 
 
-### [Granada.internal](/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.internal|Granada.internal]] 
 
-### [Granada.protect](/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.protect|Granada.protect]] 
 
-### [Granada.private](/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.private|Granada.private]] 
 
-### [Granada.personal](/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.personal|Granada.personal]] 
 
-### [Granada.secret](/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Nicaragua/departments~Nicaragua/Granada.secret|Granada.secret]] 
 
