@@ -142,7 +142,7 @@ contains_the_administrative_territorial_entity:
 top_level_Internet_domain: '[[/_Standards/WikiData/WD~.ni,487644|WD~.ni,487644]]'
 geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Nicaragua,572049|WD~geography_of_Nicaragua,572049]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
@@ -459,7 +459,7 @@ dv_ISO2: NI
 dv_ISO3: NIC
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]'
+  - '[[../../../../WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]'
   - '[[/_Standards/Earth/Continent/America~Central/Nicaragua|Nicaragua]]'
   - '[[/_public/Earth/Continent/America~Central/Nicaragua.public|Nicaragua.public]]'
   - '[[/_internal/Earth/Continent/America~Central/Nicaragua.internal|Nicaragua.internal]]'
@@ -749,7 +749,7 @@ dv_has_place_longitude: -86.28
 dv_has_place_latitude: 12.15
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]'
+- '[[../../../../WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]'
 - '[[/_Standards/Earth/Continent/America~Central/Nicaragua|Nicaragua]]'
 - '[[/_public/Earth/Continent/America~Central/Nicaragua.public|Nicaragua.public]]'
 - '[[/_internal/Earth/Continent/America~Central/Nicaragua.internal|Nicaragua.internal]]'
@@ -831,12 +831,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]  
+#is_/same_as :: [[../../../../WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]  
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Nicaragua/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -857,7 +857,7 @@ markerFolder: ./Nicaragua/
 
 ```leaflet
 id: Nicaragua_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -881,13 +881,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Nicaragua/Counties/Managua/City/Managua|Managua]]  
+Capital :: [[Counties/Managua/City/Managua|Managua]]  
 
-![[Nicaragua/Coat_of_arms_of_Nicaragua.svg|350]]
+![[Coat_of_arms_of_Nicaragua.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Nicaragua.mp3|Anthem-Nicaragua.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Nicaragua.mp3|Anthem-Nicaragua.mp3]]
 
-![[Nicaragua/Flag_of_Nicaragua.svg|350]]
+![[Flag_of_Nicaragua.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
